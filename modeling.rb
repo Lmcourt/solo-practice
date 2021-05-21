@@ -31,4 +31,5 @@ WoW = {
   can_dps: true,
   class_spec: ["Ret", "Holy", "Prot"]
 }
-puts WoW[:can_dps]
+
+puts "I really hope I can get my IO score above #{WoW[:io]} before 9.1 hits."
